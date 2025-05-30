@@ -1,1 +1,2 @@
-good morning all this is from git bash
+hello from text file a
+
